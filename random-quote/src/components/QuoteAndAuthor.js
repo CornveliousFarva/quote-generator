@@ -21,7 +21,8 @@ export default function QuoteAndAuthor(props) {
                         window.open('https://twitter.com/intent/tweet/?text=' + encodeURIComponent(quote.quote + '--' + quote.author))
                     }}
                     type="submit"><i class="fab fa-twitter"></i> Share to Twitter</button>
-                    
+                {/* LinkedIn Button     */}
+                {/* Facebook Button */}
             </div>
         </div>
     )
