@@ -20,7 +20,8 @@ export default function QuoteAndAuthor(props) {
                         generateRandomQuote(quotes);
                         window.open('https://twitter.com/intent/tweet/?text=' + encodeURIComponent(quote.quote + '--' + quote.author))
                     }}
-                    type="submit"><i class="fab fa-twitter"></i> Share Quote</button>
+                    type="submit"><i class="fab fa-twitter"></i> Share to Twitter</button>
+                    
             </div>
         </div>
     )
