@@ -262,10 +262,6 @@ const quotes = [
         "author": "Vin Scully"
     },
     {
-        "quote": "Don't fight a battle if you don't gain anything by winning",
-        "author": "Erwin Rommel"
-    },
-    {
         "quote": "Life is a lively process of becoming",
         "author": "Douglas MacArthur"
     },
